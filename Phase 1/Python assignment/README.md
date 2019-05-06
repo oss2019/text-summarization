@@ -9,7 +9,7 @@ If you have any doubts, feel free to ping us any time or just open an issue if y
 
 ## Part 2 : Grab the source files
 
-You'll find the resources for this assignment [here](https://github.com/oss2019/text-summarization/tree/master/Phase%201/Python%20assignment/resources).
+Get the resources for this assignment [here](https://github.com/oss2019/text-summarization/tree/master/Phase%201/Python%20assignment/resources)!
 
 1. 2600-0.txt : War and Peace - Leo Tolstoy. Credit to [Project Gutenberg](https://www.gutenberg.org/)
 2. stopwords.txt : common words to exlude. Credit to [Andreas Mueller](https://github.com/amueller/word_cloud/)
@@ -28,9 +28,9 @@ Your overall approach should be :
 - If you used an unordered data structure like a dictionary, you might need to get the values out of it (into a list) to sort it.  You could also use [collections.Counter](https://docs.python.org/2/library/collections.html) from the Collections module to help with this step!
 - Please note the output format for your file :-
   
-  **word1 : number_of_occurrances**
+  **word1 : number_of_occurrences**
   
-  **word2 : number_of_occurrances**
+  **word2 : number_of_occurrences**
   
 - We have opened an issue for every **Top x most common words**; So everyone can work on any one of these issues.
 - Finally create a file named **Topx.txt** for your issue and place it in the the Python assignment folder inside Phase 1 directory.
