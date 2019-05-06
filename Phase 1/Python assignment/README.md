@@ -1,4 +1,4 @@
-### Python Word Count
+# Python Word Count
 
 You've likely seen word-clouds before, if not, please check [here](https://www.google.com/search?site=&tbm=isch&source=hp&biw=1536&bih=799&q=word+cloud&oq=word+cloud&gs_l=img.3..0l10.981.2160.0.2280.11.11.0.0.0.0.95.704.9.9.0....0...1.1.64.img..2.9.695.0.NtfMDYloQTw) for examples. In order to create word clouds, the software finds the most frequently occurring words in a text file. This assignment will ask you to do just that! We'll use the text of the famous novel by Leo Tolstoy, **War and Peace** for this assignment!!
 
@@ -32,12 +32,12 @@ Your overall approach should be :
   
   **word2 : number_of_occurrances**
   
-- We have opened an issue for every **Top x most occurring words**; So everyone can work on any one of these issues.
+- We have opened an issue for every **Top x most common words**; So everyone can work on any one of these issues.
 - Finally create a file named **Topx.txt** for your issue and place it in the the Python assignment folder inside Phase 1 directory.
-As an example, if you are working on the issue **Top 15 most occurring words**, then place the file **Top15.txt** inside **Phase 1/Python assignment/**
+As an example, if you are working on the issue **Top 15 most common words**, then place the file **Top15.txt** inside **Phase 1/Python assignment/**
 
 - Also feel free to verify other contributors most occurring words with yours and in case of mismatch you can point out on their issue if you're confident that your's right!*(Maybe extra points for this :p)*
-- Using the given stopwords and removing the above 10 punctuation marks here are the **Top 3 most occurring words** which we found :
+- Using the given stopwords and removing the above 10 punctuation marks here are the **Top 3 most common words** which we found :
   
   **said : 2762**
   
