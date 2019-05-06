@@ -9,7 +9,7 @@ An introductory course to ML where we'll together learn the Basics of Machine Le
 ## Mentors:
 ```
 Soma Siddhartha @sedherthe
-Ganesh Samarth 
+Ganesh Samarth @ganeshsamarth
 Prateek Jain @prateekjain2606
 ```
 
