@@ -1,0 +1,6 @@
+        Words  Frequency
+21950    said       2762
+533       one       2008
+5656   prince       1856
+21239  pierre       1753
+1984      now       1242
