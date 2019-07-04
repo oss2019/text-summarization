@@ -1,6 +1,6 @@
 said : 2834
 one : 2047
-prince : 1886
+prince : 1856
 pierre : 1784
 would : 1362
 could : 1111
