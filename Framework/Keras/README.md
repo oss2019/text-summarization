@@ -24,11 +24,12 @@ Before we dive into the text summarization we wanted to give you a decent idea o
 Please follow these instructions carefully:(You need to get this right)
 - We will be mainly focuing on Linux based OS. 
 - Since we do not want to disrupt various versions of various python packages in your system, we would be running all your scripts on a python virtual environment. (its also considered good practice!)
-- For all those who do not know what is a python virtual environment and how to work on it, well virtual environment as the name suggests is like a virtual world where you can install  particular versions of all your dependecies for a project without actually changing your system connfigurations.
-- This also makes sure that none of you will run into version troubles while executing your scripts
--To install and use python virtual environment, just have a look at the below link
-https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/
-Please do create a virtual environment with python3
+- For all those who do not know what is a python virtual environment and how to work on it, well virtual environment as the name suggests is like a virtual world where you can install  particular versions of all your dependecies for a project without actually changing your system configurations.
+- This also makes sure that none of you will run into version troubles while executing your scripts.
+- To install and use python virtual environment, just have a look at this [link](
+https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/).
+- Please do create a virtual environment with **python3**.Also, after creating your venv please verify your python version using the command:
+`python --version`
 
 - Once you have activated your virtual environment, to get working with Keras install the following:
   - pip install bs4
