@@ -1,0 +1,17 @@
+process encoding input for decoding sequence before padding
+pad sequences
+use the padded sequence length for encoder and decoder inputs
+training the model
+enter the input data in reverse
+embeddings=word_embeddings_matrix
+input_data---
+x=tf.nn.embedding_lookup(embeddings,padded_sorted_texts)
+y=tf.nn.embedding_lookup(embeddings,padded_sorted_summaries)
+
+model.fit([x,y],y)
+
+Things to confirm:
+What is the output of the decoder
+what are the inference models used for
+converting model output to a summary
+
