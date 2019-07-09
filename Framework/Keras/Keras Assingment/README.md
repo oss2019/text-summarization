@@ -1,1 +1,1 @@
-Please check the **TASK1** statement in the task1 folder.
+Please check the **TASK1** problem statement in the task1 folder.
