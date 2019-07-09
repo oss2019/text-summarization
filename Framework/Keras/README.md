@@ -9,10 +9,10 @@ Here goes---
 These are sooooo good! Addictive. Just know they're not CARROT chips/fries (actual fried carrot slices) they're carrot CHIPS - think POTATO chips (actual fried potato) vs corn CHIPS (cornmeal fried chip, basically). Trying to use inflection for emphasis there. Either you love or hate but my entire family craves these!
 
 ### Original Summary #1
-Love These!
+> Love These!
 
 ### Generated Summary #1
-love these chips 
+> love these chips 
 
 Cool right! The model is able to recognize the fact that the main topic of discussion in the entire review was about chips.
 This model is still in its basic stages and lots of improvements can be built upon this. 
