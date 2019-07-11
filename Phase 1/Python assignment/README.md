@@ -20,11 +20,11 @@ To complete this assignment, you will want to read and clean the input, then cou
 
 Your overall approach should be : 
 - Think of a data structure to store the words and the number of occurrances of the word.
-- Read in each word from the file, **making it lower case and removing punctuation**. ( Remove the punctuation marks from the file).
-- For simplicity and to keep the results uniform consider **only the following **10** punctuation marks for removal:**   
-  **( ",", "-", "'", ".", '"', '_', '\\', '“', '”', '*')**
-- Then extract the **Top x** positions which you would like from any one of the issues.!!
-- Also don't forget to **exclude the stopwords**(common words).
+- Read in each word from the file, **making it lower case and removing punctuation**. ( Remove the punctuation marks from the file)
+- For simplicity and to keep the results uniform consider **only the following 10 punctuation marks for removal:**   
+  **( ",", "-", "'", ".", '"', '_', '\\', '“', '”', '*')** 
+- Then extract the **Top x** positions which you would like from any one of the issues!!
+- Also don't forget to **exclude the stopwords** (common words).
 - If you used an unordered data structure like a dictionary, you might need to get the values out of it (into a list) to sort it.  You could also use [collections.Counter](https://docs.python.org/2/library/collections.html) from the Collections module to help with this step!
 - Please note the output format for your file :-
   
@@ -36,7 +36,7 @@ Your overall approach should be :
 - Finally create a file named **Topx.txt** for your issue and place it in the the Python assignment folder inside Phase 1 directory.
 As an example, if you are working on the issue **Top 15 most common words**, then place the file **Top15.txt** inside **Phase 1/Python assignment/**
 
-- Also feel free to verify other contributors most occurring words with yours and in case of mismatch you can point out on their issue if you're confident that your's right!*(Maybe extra points for this :p)*
+- Also feel free to verify other contributors most common words with yours and in case of mismatch you can point out on their issue if you're confident that your's right!*(Maybe extra points for this :p)*
 - Using the given stopwords and removing the above 10 punctuation marks here are the **Top 3 most common words** which we found :
   
   **said : 2762**
